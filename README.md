@@ -13,7 +13,7 @@
 
 - 🎓 I’m pursuing **BCA**  
 - 🌱 I’m currently learning **Backend Development, Competitive Programming**  
-- 💬 Ask me about **Android Development, Java, Kotlin, Frontend Development**  
+- 💬 Ask me about **Android Development, Java,Frontend Development**  
 - 🌐 Portfolio: [devgholase.vercel.app](https://devgholase.vercel.app/)  
 - 📫 Reach me at **surajgholase41@gmail.com**  
 
