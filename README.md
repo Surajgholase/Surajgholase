@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janba Gholase</h1>
-<h3 align="center">Android Developer | Java Developer | FullStack Developer</h3>
+<h3 align="center">Android Developer | Java Developer | Full Stack Developer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Surajgholase&label=Profile%20views&color=0e75b6&style=flat" alt="Surajgholase" /> 
@@ -13,7 +13,7 @@
 
 - 🎓 I’m pursuing **BCA**  
 - 🌱 I’m currently learning **Backend Development, Competitive Programming**  
-- 💬 Ask me about **Android Development, Java,Frontend Development**  
+- 💬 Ask me about **Android Development, Java,Full Stack Development**  
 - 🌐 Portfolio: [devgholase.vercel.app](https://devgholase.vercel.app/)  
 - 📫 Reach me at **surajgholase41@gmail.com**  
 
